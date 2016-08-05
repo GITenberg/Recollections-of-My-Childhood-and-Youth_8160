@@ -1,0 +1,31 @@
+_repo: Recollections-of-My-Childhood-and-Youth_8160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brandes, Georg
+    aliases:
+    - Brandes, G. (Georg)
+    - Brandes, George
+    - Brandes, Georg Morris Cohen
+    birthdate: 1842
+    deathdate: 1927
+    gutenberg_agent_id: '2674'
+    url: http://www.gutenberg.org/2009/agents/2674
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcc 'PT'
+- !lcsh 'Brandes, Georg, 1842-1927 -- Childhood and youth'
+- !lcsh 'Autobiographies'
+- GITenberg
+title: Recollections of My Childhood and Youth
+url: http://www.gutenberg.org/ebooks/8160
